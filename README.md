@@ -75,7 +75,14 @@
 
 | Ημερομηνίες (2027) | Αφετηρία | Πήγαινε (τοπικές ώρες) | Επιστροφή (τοπικές ώρες) | Τιμή | Σύνδεσμος |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **6–10 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~143 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-06+returning+2027-05-10&hl=en&gl=GR&curr=EUR) |
+| **6–10 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~113 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-06+returning+2027-05-10&hl=en&gl=GR&curr=EUR) |
 | **13–17 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~126 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
 | **13–17 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~89 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| **20–24 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~127 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| **20–24 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~96 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| **27–31 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~136 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-27+returning+2027-05-31&hl=en&gl=GR&curr=EUR) |
+| **27–31 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~116 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-27+returning+2027-05-31&hl=en&gl=GR&curr=EUR) |
+
 
 > *Σημείωση: Όλες οι τιμές είναι ενδεικτικές μετ' επιστροφής (βασικός ναύλος χωρίς παραδοτέα αποσκευή) και ενδέχεται να μεταβληθούν. Στους συνδέσμους για Βαρκελώνη και Βουδαπέστη μπορείς να πατήσεις το φίλτρο **«Nonstop»** μέσα στο Google Flights για να βλέπεις μόνο τις απευθείας.*
