@@ -46,43 +46,45 @@
 | Πεμ – Δευτ | **3–7 Ιουνίου** | Αθήνα (ATH) | A3 710: 15:05 → **17:00** *(ή VY 1067: 11:55 → **14:05**)* | Απογευματινές επιλογές (Aegean / Vueling) | ~170–260 € | Ιδανικά ωράρια | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BCN+on+2027-06-03+returning+2027-06-07&curr=EUR&hl=en&gl=GR) |
 | Πεμ – Δευτ | **3–7 Ιουνίου** | Θεσ/νίκη (SKG) | A3 560: 15:05 → **17:00** | A3 561: **18:50** → 22:25 | ~235–350 € | Άφιξη 17:00 (αντί ~14:30) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BCN+on+2027-06-03+returning+2027-06-07&curr=EUR&hl=en&gl=GR) |
 
-## 3. Βουδαπέστη (BUD)
-
-* **Αεροπορικές:**
-
-  * **Θεσσαλονίκη (SKG):** **Ryanair** & **Wizz Air** (συνδυαστικά σχεδόν καθημερινά δρομολόγια).
-
-  * **Αθήνα (ATH):** **Ryanair**, **Wizz Air** & **Aegean Airlines** (πολλαπλές καθημερινές πτήσεις).
-
-* **Γενική εικόνα ωραρίων:** **Ο καλύτερος συγχρονισμός μέχρι στιγμής (μηδενικοί συμβιβασμοί)!** Τόσο το **Πέμπτη – Δευτέρα** όσο και το **Δευτέρα – Παρασκευή** καλύπτουν 100% τα κριτήρια (πρωινή/μεσημεριανή άφιξη & απογευματινή επιστροφή) και για τις δύο πόλεις, συνδυάζοντας Ryanair, Wizz Air ή Aegean.
+## 3. Μπέργκαμο (BGY)
+*Όλες οι απευθείας πτήσεις εκτελούνται από τη Ryanair.*
 
 | Ημέρες | Ημερομηνίες (2027) | Αφετηρία | Πήγαινε (Τοπικές ώρες) | Επιστροφή (Τοπικές ώρες) | Ενδεικτική Τιμή | Σχόλιο / Συμβιβασμός | Σύνδεσμος |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Πεμ – Δευτ | **13–17 Μαΐου** | Αθήνα (ATH) | W6 2442: 09:55 → **11:05** | FR 1243: **14:00** → 17:00 *(ή A3 879: **18:55** → 21:50)* | ~85–145 € | **100% ιδανικά ωράρια** (συνδυασμός Wizz/Ryanair) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BUD+on+2027-05-13+returning+2027-05-17&curr=EUR&hl=en&gl=GR) |
-| Πεμ – Δευτ | **13–17 Μαΐου** | Θεσ/νίκη (SKG) | FR 4278: 11:05 → **11:45** | W6 2447: **13:10** → 15:50 | ~75–125 € | **100% ιδανικά ωράρια** (συνδυασμός Ryanair/Wizz) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BUD+on+2027-05-13+returning+2027-05-17&curr=EUR&hl=en&gl=GR) |
-| Δευτ – Παρ | **17–21 Μαΐου** | Αθήνα (ATH) | FR 7596: 09:55 → **11:00** *(ή A3 876: 12:15 → **13:15**)* | A3 879: **18:55** → 21:50 | ~130–200 € | **100% ιδανικά ωράρια** (επιστροφή με Aegean) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BUD+on+2027-05-17+returning+2027-05-21&curr=EUR&hl=en&gl=GR) |
-| Δευτ – Παρ | **17–21 Μαΐου** | Θεσ/νίκη (SKG) | FR 4278: 12:20 → **13:00** | FR 4277: **19:10** → 21:45 *(ή W6 2447: **13:10** → 15:50)* | ~70–120 € | **100% ιδανικά ωράρια** (με την ίδια αεροπορική) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BUD+on+2027-05-17+returning+2027-05-21&curr=EUR&hl=en&gl=GR) |
-| Πεμ – Δευτ | **20–24 Μαΐου** | Αθήνα (ATH) | W6 2442: 09:55 → **11:05** | FR 1243: **14:00** → 17:00 *(ή A3 879: **18:55** → 21:50)* | ~85–150 € | **100% ιδανικά ωράρια** | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BUD+on+2027-05-20+returning+2027-05-24&curr=EUR&hl=en&gl=GR) |
-| Πεμ – Δευτ | **20–24 Μαΐου** | Θεσ/νίκη (SKG) | FR 4278: 11:05 → **11:45** | W6 2447: **13:10** → 15:50 | ~75–130 € | **100% ιδανικά ωράρια** | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BUD+on+2027-05-20+returning+2027-05-24&curr=EUR&hl=en&gl=GR) |
-| Πεμ – Δευτ | **3–7 Ιουνίου** | Αθήνα (ATH) | W6 2442: 09:55 → **11:05** | FR 1243: **14:00** → 17:00 *(ή A3 879: **18:55** → 21:50)* | ~90–160 € | **100% ιδανικά ωράρια** | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BUD+on+2027-06-03+returning+2027-06-07&curr=EUR&hl=en&gl=GR) |
-| Πεμ – Δευτ | **3–7 Ιουνίου** | Θεσ/νίκη (SKG) | FR 4278: 11:05 → **11:45** | W6 2447: **13:10** → 15:50 | ~80–135 € | **100% ιδανικά ωράρια** | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BUD+on+2027-06-03+returning+2027-06-07&curr=EUR&hl=en&gl=GR) |
+| Πέμ – Δευ | **6–10 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~143 € | Απογευματινή άφιξη (19:20), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-06+returning+2027-05-10&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **6–10 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~113 € | Οριακή άφιξη (15:10), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-06+returning+2027-05-10&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **13–17 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~126 € | Απογευματινή άφιξη (19:20), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **13–17 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~89 € | Οριακή άφιξη (15:10), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **20–24 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~127 € | Απογευματινή άφιξη (19:20), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **20–24 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~96 € | Οριακή άφιξη (15:10), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **27–31 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~136 € | Απογευματινή άφιξη (19:20), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-27+returning+2027-05-31&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **27–31 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~116 € | Οριακή άφιξη (15:10), τέλεια επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-27+returning+2027-05-31&hl=en&gl=GR&curr=EUR) |
 
-## 4. Μπέργκαμο (BGY)
-*Όλες οι απευθείας πτήσεις εκτελούνται από τη Ryanair.*
+---
 
-### Πέμπτη – Δευτέρα *(4 βράδια)*
-* **Συμβιβασμός:** Η πτήση από Αθήνα φτάνει απόγευμα στις **19:20** και από Θεσσαλονίκη οριακά στις **15:10**. Εξαιρετική απογευματινή/βραδινή επιστροφή τη Δευτέρα και για τις δύο πόλεις.
+## 4. Μαδρίτη (MAD) *(Μέσω Αθήνας από SKG)*
+*Απευθείας από Αθήνα με Sky Express, Aegean & Iberia. Η Θεσσαλονίκη πετάει με ενιαίο εισιτήριο Sky Express (μέσω ATH) και μπαίνετε μαζί στο ίδιο αεροπλάνο για Μαδρίτη.*
 
-| Ημερομηνίες (2027) | Αφετηρία | Πήγαινε (τοπικές ώρες) | Επιστροφή (τοπικές ώρες) | Τιμή | Σύνδεσμος |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **6–10 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~143 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-06+returning+2027-05-10&hl=en&gl=GR&curr=EUR) |
-| **6–10 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~113 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-06+returning+2027-05-10&hl=en&gl=GR&curr=EUR) |
-| **13–17 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~126 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
-| **13–17 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~89 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
-| **20–24 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~127 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
-| **20–24 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~96 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
-| **27–31 Μαΐου** | Αθήνα (ATH) | FR1318: 17:50 → **19:20** | FR1319: **20:20** → 23:45 | ~136 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+BGY+on+2027-05-27+returning+2027-05-31&hl=en&gl=GR&curr=EUR) |
-| **27–31 Μαΐου** | Θεσ/νίκη (SKG) | FR412: 14:00 → **15:10** | FR413: **14:55** → 17:55 | ~116 € | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+BGY+on+2027-05-27+returning+2027-05-31&hl=en&gl=GR&curr=EUR) |
+| Ημέρες | Ημερομηνίες (2027) | Αφετηρία | Πήγαινε (Τοπικές ώρες) | Επιστροφή (Τοπικές ώρες) | Ενδεικτική Τιμή | Σχόλιο / Συμβιβασμός | Σύνδεσμος |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Πέμ – Δευ | **13–17 Μαΐου** | Αθήνα (ATH) | GQ920: 10:30 → **13:20** | GQ921: **14:20** → 18:45 | ~229 € *(A3 ~210 €)* | 100% στα κριτήρια (Sky Express απευθείας) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+MAD+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **13–17 Μαΐου** | Θεσ/νίκη (SKG) | GQ391: 07:00 → 07:55 + GQ920: 10:30 → **13:20** | GQ921: **14:20** → 18:45 + ανταπόκριση SKG | ~268 € | 100% στα κριτήρια, ενιαίο μέσω ATH (2ω 35λ αναμονή) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+MAD+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **20–24 Μαΐου** | Αθήνα (ATH) | GQ920: 10:30 → **13:20** | GQ921: **14:20** → 18:45 | ~186 € | 100% στα κριτήρια (Sky Express απευθείας) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+MAD+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **20–24 Μαΐου** | Θεσ/νίκη (SKG) | GQ391: 07:00 → 07:55 + GQ920: 10:30 → **13:20** | GQ921: **14:20** → 18:45 + ανταπόκριση SKG | ~268 € | 100% στα κριτήρια, ενιαίο μέσω ATH (2ω 35λ αναμονή) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+MAD+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **3–7 Ιουνίου** | Αθήνα (ATH) | GQ920: 10:30 → **13:20** | GQ921: **14:20** → 18:45 | ~186 € *(A3 ~190 €)* | 100% στα κριτήρια (Sky Express απευθείας) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+MAD+on+2027-06-03+returning+2027-06-07&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **3–7 Ιουνίου** | Θεσ/νίκη (SKG) | GQ391: 07:00 → 07:55 + GQ920: 10:30 → **13:20** | GQ921: **14:20** → 18:45 + ανταπόκριση SKG | ~268 € | 100% στα κριτήρια, ενιαίο μέσω ATH (2ω 35λ αναμονή) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+MAD+on+2027-06-03+returning+2027-06-07&hl=en&gl=GR&curr=EUR) |
 
+---
 
-> *Σημείωση: Όλες οι τιμές είναι ενδεικτικές μετ' επιστροφής (βασικός ναύλος χωρίς παραδοτέα αποσκευή) και ενδέχεται να μεταβληθούν. Στους συνδέσμους για Βαρκελώνη και Βουδαπέστη μπορείς να πατήσεις το φίλτρο **«Nonstop»** μέσα στο Google Flights για να βλέπεις μόνο τις απευθείας.*
+## 5. Λισαβόνα (LIS) *(Μέσω Αθήνας από SKG)*
+*Απευθείας από Αθήνα με Aegean & TAP. Η Θεσσαλονίκη συνδέεται μέσω Αθήνας με ενιαίο εισιτήριο Aegean.*
+
+| Ημέρες | Ημερομηνίες (2027) | Αφετηρία | Πήγαινε (Τοπικές ώρες) | Επιστροφή (Τοπικές ώρες) | Ενδεικτική Τιμή | Σχόλιο / Συμβιβασμός | Σύνδεσμος |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Πέμ – Δευ | **13–17 Μαΐου** | Αθήνα (ATH) | A3720: 07:35 → **10:00** *(ή A3722: 20:05 → 22:45)* | A3723: **00:40** → 06:35 | ~265 € *(~242 € βραδ.)* | Τέλεια πρωινή άφιξη, αλλά νυχτερινή επιστροφή (00:40) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+LIS+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **13–17 Μαΐου** | Θεσ/νίκη (SKG) | A3101: 06:00 → 06:50 + A3720: 07:35 → **10:00** | A3723: **00:40** → 06:35 + ανταπόκριση SKG | ~408 € *(~357 € βραδ.)* | Ενιαίο Aegean (45λ στάση ATH), νυχτερινή επιστροφή & ακριβό | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+LIS+on+2027-05-13+returning+2027-05-17&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **20–24 Μαΐου** | Αθήνα (ATH) | A3720: 07:35 → **10:00** | A3723: **00:40** → 06:35 | ~265 € | Τέλεια πρωινή άφιξη, αλλά νυχτερινή επιστροφή (00:40) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+LIS+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **20–24 Μαΐου** | Θεσ/νίκη (SKG) | A3101: 06:00 → 06:50 + A3720: 07:35 → **10:00** | A3723: **00:40** → 06:35 + ανταπόκριση SKG | ~331 € | Ενιαίο Aegean (45λ στάση ATH), νυχτερινή επιστροφή | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+LIS+on+2027-05-20+returning+2027-05-24&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **3–7 Ιουνίου** | Αθήνα (ATH) | A3720: 07:35 → **10:00** *(ή A3722: 20:05 → 22:45)* | A3723: **00:40** → 06:35 | ~265 € *(~242 € βραδ.)* | Τέλεια πρωινή άφιξη, αλλά νυχτερινή επιστροφή (00:40) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+ATH+to+LIS+on+2027-06-03+returning+2027-06-07&hl=en&gl=GR&curr=EUR) |
+| Πέμ – Δευ | **3–7 Ιουνίου** | Θεσ/νίκη (SKG) | A3119: 16:15 → 17:10 + A3722: 20:05 → **22:45** | A3723: **00:40** → 06:35 + ανταπόκριση SKG | ~306 € | Βραδινή άφιξη (22:45) & νυχτερινή επιστροφή (2ω 55λ στάση ATH) | [Google Flights](https://www.google.com/travel/flights?q=Flights+from+SKG+to+LIS+on+2027-06-03+returning+2027-06-07&hl=en&gl=GR&curr=EUR) |
+> *Σημείωση: Όλες οι τιμές είναι ενδεικτικές μετ' επιστροφής (βασικός ναύλος χωρίς παραδοτέα αποσκευή) και ενδέχεται να μεταβληθούν. Στους συνδέσμους για Βαρκελώνη μπορείς να πατήσεις το φίλτρο **«Nonstop»** μέσα στο Google Flights για να βλέπεις μόνο τις απευθείας.*
