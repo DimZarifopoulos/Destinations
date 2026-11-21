@@ -1,112 +1,27 @@
-#   
-  
-## Δραστηριότητες:   
-### Must  
-1. [Βασιλική του Αγίου Πέτρου](https://maps.app.goo.gl/gTn7ejGEfYq62BYdA) - Δωρεάν αλλά έχει ουρά/ καλύτερα να πάτε μια μέρα νωρίς το πρωί κατα τις 08:00 - 09:00  
-2. [Βατικανό](https://maps.app.goo.gl/96Xd6T5KhSmZAPFUA) - Τετάρτη 09:00/ Λογικά 3 ώρες  
-3. [Πάνθεον](https://maps.app.goo.gl/69xD6YHgD4wWpaoC6) - έχει είσοδο 7€ αλλά καλύτερα να τα κλείσω για να μην περιμένετε   
-4. [Κολοσσαίο ](https://maps.app.goo.gl/Ca87HBTjzojSGTt4A)+ ρωμαική αγορά - βόλτα απέξω   
-  
-### Προαιρετικά - προτείνεται  
-1. [Κάστρο των αγγέλων](https://maps.app.goo.gl/4SAhgikqaAYEE8nL6)/ γέφυρα - μπορείτε να το δείτε απέξω/ αλλιώς είσοδος 18€   
-2. Fontana di Trevi / [Piazza Navona](https://maps.app.goo.gl/B225YtR449EQg8G58)  
-3. [Spanish steps](https://maps.app.goo.gl/hAcd9AYXkEmSwPfWA) - βόλτα  
-4. [Villa Borghese](https://maps.app.goo.gl/mtRr8ucuGxvu5uEv7) - βόλτα  
-5. [Trastevere](https://maps.app.goo.gl/DMMd485MJvFw6U4s8) - ωραία περιοχή για βόλτα με ωραία μαγαζιά
-6. [Piazza Venezia](https://maps.app.goo.gl/tLUCr5bx6UTPiMwr6)
-7. [Βασιλική της Σάντα Μαρία Ματζόρε](https://maps.app.goo.gl/7xkoPNdi914kQJRt5)
-  
+# Ταξίδι στην Ευρώπη — 4 Βράδια (Μάιος – Αρχές Ιουνίου 2027)
 
- 
-## Εστιατόρια:
+## Κριτήρια Αναζήτησης
+* **Διάρκεια:** 4 βράδια
+* **Αφετηρίες:** Αθήνα (ATH) & Θεσσαλονίκη (SKG) — ταυτόχρονες ημερομηνίες
+* **Τύπος πτήσεων:** Απευθείας, budget επιλογές
+* **Επιθυμητά ωράρια:** Άφιξη στον προορισμό πριν τις 14:00–15:00 & επιστροφή μετά το μεσημέρι
 
-| Εστιατόριο / Gelateria | Link | Περιοχή | € (Μέσος όρος) | Καλύτερο Πιάτο / Γεύση | Παρατηρήσεις |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Museum Restaurant** | [Google Maps](https://maps.app.goo.gl/Wc7Avu6jhNCxkFQ38) | Κοντά στο δωμάτιο | 10-12€ | Πιάτα ζυμαρικών και παραδοσιακή πίτσα | Για φαγητό κοντά στο δωμάτιο και στο βατικανό |
-| **Romanè** | [Google Maps](https://maps.google.com/?cid=14150288840432438466) | Κοντά στο δωμάτιο | 15-16€ | Spaghettoni all'Amatriciana, Pollo alla cacciatora(κοτόπουλο κυνηγού κοκκινιστό) - δεν έχει πίτσα | Για φαγητό κοντά στο δωμάτιο |
-| **Eroi Della Pizza** | [Google Maps](https://maps.app.goo.gl/zEX4BttaUpL1bzyTA) | Κοντά στο δωμάτιο | 5€ | Πίτσα στο χέρι | Street food|
-| **Tonnarello** | [Google Maps](https://maps.app.goo.gl/jnLf4Gxphn65TL4a7) | Trastevere | ~15€ | Polpette (κεφτεδάκια κοκκινιστά), Tonnarelli | Τις ώρες αιχμής έχει ουρά - έχει πολλά μαγαζιά το ένα δίπλα στο άλλο, γρήγορη εξυπηρέτηση. |
-| **Trattoria Da Enzo 29** | [Google Maps](https://maps.app.goo.gl/LxxrLhDBYbo8NyGv6) | Trastevere | 15-16€ | Carbonara, Cacio e Pepe, Carciofi alla Giudia (τηγανιτή αγκινάρα) | Κλασικό και αυθεντικό - πιθανή αναμονή. |
-| **Giolitti (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/zXXhDUka6GuBV5XN9) | Πάνθεον | 3-5€ | Φιστίκι (Pistacchio), Μαύρη Σοκολάτα | Ιστορική gelateria. Πληρώνετε πρώτα στο ταμείο και μετά πάτε στον πάγκο |
-| **Frigidarium (Παγωτό)** | [Google Maps](https://maps.google.com/?q=Frigidarium+Roma) | Piazza Navona | 3-5€ | Γεύση Frigidarium (καραμέλα/μπισκότο) | Φημίζεται γιατί βουτάνε το παγωτό σας σε ρευστή σοκολάτα (λευκή ή μαύρη) η οποία παγώνει και κάνει κρούστα! |
-| **La Romana (Παγωτό)** | [Google Maps](https://maps.app.goo.gl/QaJzRxjAMSjqUNGa9) | Spanish steps | 3-5€ | Κρέμες, Bacio di Dama,  | - |
-| **Pompi (Τιραμισού)** | [Google Maps](https://maps.app.goo.gl/tTa7aaBV8Asvrufz6) | Pantheon | 6€ | -  | Από τα πιο γνωστά τιραμισού |
-| **Two Sizes (Τιραμισού)** | [Google Maps](https://maps.app.goo.gl/tTa7aaBV8Asvrufz6) | Pantheon | 3-5€ | -  | - |
+---
 
-  
-## Ενδεικτικό Πρόγραμμα:  
-  
-### Ημέρα 1η: Δευτέρα, 19 Οκτωβρίου – Άφιξη   
-* 11:10: Άφιξη στη Ρώμη.  
-* 13:00 - 13:30: Δωμάτιο  
-* Φαγητό - Museum Restaurant κοντά  
-* Απόγευμα: ****Κάστρο των Αγγέλων**** - γέφυρα των Αγγέλων - ****ιστορικό κέντρο****.  
-* Βράδυ: Χαλαρό δείπνο στη γειτονιά του Prati ή γύρω από το Κάστρο.  
-  
-### Ημέρα 2η: Τρίτη, 20 Οκτωβρίου – Ιστορικό Κέντρο & Spanish steps  
-* Πρωί: ****ιστορικό κέντρο - Πάνθεον****  
-* Μεσημέρι: ****Piazza Navona - Φοντάνα ντι Τρέβι****  
-* Απόγευμα: Βόλτα προς Piazza di Spagna για να πάτε Spanish steps  
-  
-### Ημέρα 3η: Τετάρτη, 21 Οκτωβρίου – Βατικανό & Χαλάρωση στη Φύση  
-* 09:00: ****Μουσεία Βατικανού**** (10-15 λεπτά με τα πόδια) / 3-4 ώρες για Μουσεία, ****Καπέλα Σιστίνα και τη Βασιλική του Αγίου Πέτρου.****  
-* Μεσημέρι: Ξεκούραση - φαγητό κοντά στο Βατικανό  
-* Απόγευμα: λεωφορείο για την ****Βίλλα Μποργκέζε**** (γραμμή 550) - βαρκάδα  
-  
-### Ημέρα 4η: Πέμπτη, 22 Οκτωβρίου – Αρχαία Ρώμη (Βόλτα)  
-* Πρωί: ****Αρχαία Ρώμη - Κολοσσαίο**** με μετρό (κατεύθυνση προς Anagnina - αλλαγή στο termini - κατεύθυνση προς Laurentina - αποβίβαση Colosseo) - ρωμαική αγορά - piazza Venezia  
-* Βράδυ: Βόλτα ****Trastevere**** (λεωφορείο 913 - αποβίβαση Leone IV - αλλαγή σε 23 - αποβίβαση Lgt Sanzio/Filipperi) - Tonnarello εστιατόριο  
-  
-### Ημέρα 5η: Παρασκευή, 23 Οκτωβρίου – Αναχώρηση  
-* Πρωί: πρωινό και βόλτα κοντά στο δωμάτιο  
-* 13:00 - 13:30: αναχώρηση προς το αεροδρόμιο   
-* 17:05: Αναχώρηση πτήσης Θανάση  
-  
-  
-## Μεταφορά από αεροδρόμιο:  
-  
-- ### Άφιξη: 10:20 Θανάσης // 11:10 Γονείς μου 
-  
-- [Περπατάτε προς την έξοδο](https://www.youtube.com/watch?v=_1LQhZ-evdY) και ακολουθείτε τις ταμπέλες που δείχνουν το λεωφορείο - 10’ από terminal 1 προς terminal 3 όπου είναι οι στάσεις λεωφορείων
-- ![αεροδρόμιο](https://github.com/DimZarifopoulos/Rome/blob/main/airport.png?raw=true)
-- ### Δρομολόγια: | 11:25 | 11:45 | 12:00 | 12:25 |
-- Πάτε στη στάση λεωφορείων ****16 - SIT BUS SHUTTLE**** (γράφει το νούμερο πάνω στις κολώνες) 
-- Αγοράζετε εισιτήριο από τον οδηγό -> Πάτε στη στάση ****Vatican City**** - ****Two tickets to the Vatican City stop please**** - πρέπει να είναι η 2η στάση
-- Από εκεί, προχωράτε 2΄στον ίδιο δρόμο - πάτε στο παρκάκι απέναντι και παίρνετε το λεωφορείο 913 ή 900 που περνάει κάθε 13’ στη στάση ****P.Za Cavour****
-- Κατεβαίνετε στην 9η στάση ****Medaglie D'Oro/Montezemolo**** και περπατάτε άλλα 4΄για το δωμάτιο
-  ![Χάρτης](https://github.com/DimZarifopoulos/Rome/blob/main/map.png?raw=true)
+## 1. Κρακοβία (KRK)
 
-  ## Βήματα για check-in:
+* **Αεροπορική:** Ryanair (ATH & SKG)
+* **Γενική εικόνα ωραρίων:** Το καλύτερο σενάριο για 4 βράδια είναι το **Δευτέρα–Παρασκευή** (απογευματινή επιστροφή για όλους, με μόνο συμβιβασμό την άφιξη της Θεσσαλονίκης στις 16:55). Το **Τρίτη–Σάββατο** δίνει ιδανικές αφίξεις, αλλά έχει πολύ πρωινή επιστροφή για την Αθήνα (06:05).
 
-1. Όταν φτάσετε στην είσοδο του κτιρίου, στη διεύθυνση Via Luigi Rizzo 41, κάντε κλικ στον παρακάτω σύνδεσμο:
+| Ημέρες | Ημερομηνίες (2027) | Αφετηρία | Πήγαινε (Τοπικές ώρες) | Επιστροφή (Τοπικές ώρες) | Ενδεικτική Τιμή | Σχόλιο / Συμβιβασμός | Σύνδεσμος |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
+| Δευτ – Παρ | **10–14 Μαΐου** | Αθήνα (ATH) | FR2610: 09:40 → **11:10** | FR2611: **13:15** → 16:35 | 162 € | Ιδανικά ωράρια | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA1LTEwKABqBwgBEgNBVEhyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA1LTE0KABqDAgDEggvbS8wNDkxeXIHCAESA0FUSFIDRVVSemxDalJJY2s1T2NERmFjR0YyU0hkQlNqZDVhbmRDUnkwdExTMHRMV1ZtZW0weE1pMXVNVUZCUVVGQlIzTkNNRTl2VERkbGRUSkJFZ1pHVWpJMk1UQWFDZ2pHZmhBQ0dnTkZWVkk0TTNEbWlnRT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Δευτ – Παρ | **10–14 Μαΐου** | Θεσ/νίκη (SKG) | FR2778: 15:55 → **16:55** | FR2777: **15:50** → 18:45 | 93 € | Άφιξη 16:55 (αντί ~14:30) | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA1LTEwKABqBwgBEgNTS0dyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA1LTE0KABqDAgDEggvbS8wNDkxeXIHCAESA1NLR1IDRVVSemxDalJJT0MxWlZXMVVTa2s1Tld0QlMyVk1YMUZDUnkwdExTMHRMUzFsYW1veE5DMXVNa0ZCUVVGQlIzTkNNRTl2VFZGcU1tMUJFZ1pHVWpJM056Z2FDZ2pTU0JBQ0dnTkZWVkk0TTNEV1R3PT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Δευτ – Παρ | **17–21 Μαΐου** | Αθήνα (ATH) | FR2610: 09:40 → **11:10** | FR2611: **13:15** → 16:35 | 150 € | Ιδανικά ωράρια | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA1LTE3KABqBwgBEgNBVEhyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA1LTIxKABqDAgDEggvbS8wNDkxeXIHCAESA0FUSFIDRVVSemxDalJJUkdaeldGaDZlV1J1UW1kQlFXdE9iMEZDUnkwdExTMHRMV1ZtZFdveU1pMXVNVUZCUVVGQlIzTkNNR1ZGUmtsMWEzZEJFZ1pHVWpJMk1UQWFDZ2lXZFJBQ0dnTkZWVkk0TTNEQ2dBRT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Δευτ – Παρ | **17–21 Μαΐου** | Θεσ/νίκη (SKG) | FR2778: 15:55 → **16:55** | FR2777: **15:50** → 18:45 | 121 € | Άφιξη 16:55 (αντί ~14:30) | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA1LTE3KABqBwgBEgNTS0dyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA1LTIxKABqDAgDEggvbS8wNDkxeXIHCAESA1NLR1IDRVVSemxDalJJYjA1MGJIWkRlRXB5TkRoQlRucENOVkZDUnkwdExTMHRMUzB0TFMxM1ptdHFOa0ZCUVVGQlIzTkNNR1ZGUm1kT1RYVkJFZ1pHVWpJM056Z2FDZ2pDWGhBQ0dnTkZWVkk0TTNEVlp3PT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Δευτ – Παρ | **7–11 Ιουνίου** | Αθήνα (ATH) | FR2610: 09:40 → **11:10** | FR2611: **13:15** → 16:35 | 145 € | Ιδανικά ωράρια | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA2LTA3KABqBwgBEgNBVEhyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA2LTExKABqDAgDEggvbS8wNDkxeXIHCAESA0FUSFIDRVVSemxDalJJTldFdFVqQlZVRWxwUkVGQlNscERYMEZDUnkwdExTMHRMUzB0TFdWcVkydDNOVUZCUVVGQlIzTkNNRTl2VFc5TVFtTkJFZ1pHVWpJMk1UQWFDZ2lpY1JBQ0dnTkZWVkk0TTNDZGZBPT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Δευτ – Παρ | **7–11 Ιουνίου** | Θεσ/νίκη (SKG) | FR2778: 15:55 → **16:55** | FR2777: **15:50** → 18:45 | 154 € | Άφιξη 16:55 (αντί ~14:30) | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA2LTA3KABqBwgBEgNTS0dyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA2LTExKABqDAgDEggvbS8wNDkxeXIHCAESA1NLR1IDRVVSemxDalJJUjNocE16WlRaVWRTUjFsQlNtaG5WRUZDUnkwdExTMHRMUzB0TFMxbFptRmtNa0ZCUVVGQlIzTkNNRTl2VFRkT05WRkJFZ1pHVWpJM056Z2FDZ2ltZUJBQ0dnTkZWVkk0TTNENWd3RT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Τρ – Σαβ | **18–22 Μαΐου** | Αθήνα (ATH) | FR2610: 10:40 → **12:10** | FR2611: **06:05** → 09:25 | 167 € | Πολύ πρωινή επιστροφή | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA1LTE4KABqBwgBEgNBVEhyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA1LTIyKABqDAgDEggvbS8wNDkxeXIHCAESA0FUSFIDRVVSemxDalJJVERablIwMVlWMUpVWDBsQlNuUm1SVUZDUnkwdExTMHRMUzB0TFMxbGFtUnlPRUZCUVVGQlIzTkNNR1ZGUlV3eVpFMUJFZ1pHVWpJMk1UQWFDd2k2Z2dFUUFob0RSVlZTT0ROd2lvOEK6AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
+| Τρ – Σαβ | **18–22 Μαΐου** | Θεσ/νίκη (SKG) | FR2778: 09:05 → **10:05** | FR2777: **11:25** → 14:20 | 106 € | Επιστροφή λίγο πριν το μεσημέρι | [Google Flights](https://www.google.com/travel/flights?tfs=CCcQAholEgoyMDI3LTA1LTE4KABqBwgBEgNTS0dyDAgDEggvbS8wNDkxeRolEgoyMDI3LTA1LTIyKABqDAgDEggvbS8wNDkxeXIHCAESA1NLR1IDRVVSemxDalJJTkd3elpHOW1SVVpsYm05QlMweHhiV2RDUnkwdExTMHRMUzB0TFMxbFpuaDVPRUZCUVVGQlIzTkNNR1ZGUlhKcmVXMUJFZ1pHVWpJM056Z2FDZ2pjVWhBQ0dnTkZWVkk0TTNEZFdnPT26AQIIAg&curr=EUR&hl=el-GR&gl=GR) |
 
-
-https://api.digitrip.it/api/app/stif
-
-
-Σημειώστε ότι αυτός ο σύνδεσμος ισχύει μόνο για την πρώτη είσοδο.
-
-
-2. Μόλις μπείτε στο κτίριο, ανεβείτε με το ασανσέρ ή τις σκάλες στον τρίτο όροφο και κατευθυνθείτε στο διαμέρισμα με αριθμό 10.
-
-
-Σημαντικό: Εάν χρησιμοποιήσετε το ασανσέρ, βεβαιωθείτε ότι όλες οι πόρτες του είναι πλήρως κλειστές μετά από κάθε χρήση. Αυτό ισχύει τόσο κατά την είσοδο όσο και κατά την έξοδό σας από το ασανσέρ. Το σωστό κλείσιμο των θυρών είναι απαραίτητο για τη σωστή λειτουργία του ασανσέρ.
-
-
-3. Εισαγάγετε τον ακόλουθο κωδικό πρόσβασης:
-
-
-Κωδικός πρόσβασης: 145897
-
-
-4. Μόλις μπείτε στο διαμέρισμα, θα βρείτε δύο σετ κλειδιών πάνω στο έπιπλο που βρίσκεται στα αριστερά σας, κοντά στην πόρτα εισόδου. Αυτά τα κλειδιά προορίζονται αποκλειστικά για την κεντρική είσοδο του κτιρίου και μπορείτε να τα χρησιμοποιείτε για να εισέρχεστε στο κτίριο από τον δρόμο κατά τη διάρκεια της διαμονής σας.
-
-
-Σημειώστε ότι δεν απαιτούνται κλειδιά για το διαμέρισμα με αριθμό 10. Η πόρτα του διαμερίσματος ανοίγει πάντα χρησιμοποιώντας τον παραπάνω κωδικό πρόσβασης.
-
-
-Αναχώρηση (Check-out)
-
-Κατά την αναχώρησή σας, παρακαλούμε αφήστε τα κλειδιά πάνω στο έπιπλο όπου τα βρήκατε και απλώς κλείστε την πόρτα του διαμερίσματος πίσω σας.
-
-
+> *Σημείωση: Όλες οι τιμές είναι ενδεικτικές μετ' επιστροφής (μόνο με προσωπικό αντικείμενο/τσάντα πλάτης).*
